@@ -1,0 +1,22 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "tabnine.experimentalAutoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+        "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.detectIndentation": false,
+        "editor.formatOnSave": true,
+        "window.zoomLevel": -1,
+        "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+        "[javascript]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+}
